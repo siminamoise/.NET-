@@ -1,0 +1,29 @@
+# Build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated VS files
+.vs/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Auto-generated runtime files
+*.dll
+*.pdb
+*.cache
+*.runtimeconfig.json
+*.deps.json
+
+# Test results
+TestResults/
